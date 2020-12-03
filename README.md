@@ -6,5 +6,4 @@
 <h3>Built With
 </h3>
 <ul><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
-
- <img src="/images/Scrennshot(5).png" width="350" title="hover text">
+<img src="images/Screenshot (5).png" width="500", height="400" >
